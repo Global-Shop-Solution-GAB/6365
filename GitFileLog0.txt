@@ -1,2 +1,0 @@
-The repository 6365 was created.
-Pull failed, current repository doesn't exist.
